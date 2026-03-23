@@ -1,4 +1,6 @@
-Copyright 2020 The MathWorks, Inc.
+Copyright (C) 2026 The MathWorks, Inc.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/More-Electric-Aircraft-in-Simscape)
 
 This submission demonstrates modeling of a more-electric aircraft architecture in Simscape, for both desktop and real-time simulation.
 The model shows how different physical domains may be interconnected and simulated at different sample times,
